@@ -52,8 +52,8 @@ public class MainActivity extends AppCompatActivity {
     private String textField2String;
 
     private Button noteFeed;
-    // this is a commit note
 
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
