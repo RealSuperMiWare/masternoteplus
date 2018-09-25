@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Master Note Plus</string>
+    <string name="button_string">BUTTON</string>
+    <string name="name2">Name</string>
+    <string name="testButton">test button</string>
+    <string name="add_button">Test Button</string>
+    <string name="view_text">NOTE FEED</string>
+
+</resources>

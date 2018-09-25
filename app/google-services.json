@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654239804863",
+    "firebase_url": "https://masternoteplusproject.firebaseio.com",
+    "project_id": "masternoteplusproject",
+    "storage_bucket": "masternoteplusproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654239804863:android:e3f2aa1b7905b8df",
+        "android_client_info": {
+          "package_name": "masternoteplus.supermiware.com.masternoteplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654239804863-gi0lcskerhr4v8e6ll5civhs2gjl5fqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "masternoteplus.supermiware.com.masternoteplus",
+            "certificate_hash": "38309f1c7dca7c0f621bed7c536e32cb1b6a5807"
+          }
+        },
+        {
+          "client_id": "654239804863-lujpjvuruc1nlimbrqg13710gmipsc72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7m94nYJhhJwr8Sh6sGUkcC0WgSinTGeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654239804863-lujpjvuruc1nlimbrqg13710gmipsc72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
