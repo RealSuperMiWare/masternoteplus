@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
 
     private Button noteFeed;
 
-    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
